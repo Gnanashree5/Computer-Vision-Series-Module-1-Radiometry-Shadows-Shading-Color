@@ -75,3 +75,5 @@ After completing this module, you'll be ready to dive deeper into more advanced 
 
 ---
 
+<h2>Acknowledgements</h2>
+<p>This notebook was done under guidance of  <a href="https://github.com/Victor-Ikechukwu">Dr. Agughasi Victor Ikechukwu</a></p>
